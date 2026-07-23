@@ -9,7 +9,7 @@ This project analyzes employee attrition using Microsoft Excel to identify workf
 -Interactive dashboard with slicers
 -KPI cards
 -PivotTables and PivotCharts
--EMployee attrition analysis
+-Employee attrition analysis
 -Department and job role comparisons
 -Overtime attrition analysis
 
@@ -22,9 +22,9 @@ This project analyzes employee attrition using Microsoft Excel to identify workf
 
 ## Key Findings
 -Overall employee attrition rate: **16.1%**
--Sale had the highest attrition rate among all departments (**20.6%**).
+-Sales had the highest attrition rate among all departments (**20.6%**).
 -Laboratory Technicians experienced the highest number of employee departures.
--Employees working overtimes had approximately **three times** the attrition rate of employees who did not work overtime.  
+-Employees working overtime had approximately **three times** the attrition rate of employees who did not work overtime.  
 
 ## Tools Used
 -Microsoft Excel
